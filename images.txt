@@ -1,1 +1,1 @@
-minio/minio:latest
+nn200433/kkfileview:4.4.0-beta
