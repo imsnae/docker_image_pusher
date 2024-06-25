@@ -1,2 +1,1 @@
-nn200433/kkfileview:4.3.0
-
+minio/minio:latest
